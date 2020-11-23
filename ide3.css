@@ -1,0 +1,38 @@
+body {
+color:black;
+font-size: 12px;
+background-color: black;
+background-image:url(cc4e012fc8d96cbe52d99dd863743823.jpg);
+background-attachment:fixed;
+margin : 0;
+	padding: 0;
+font-family: "Pristina",Pristina;
+	font-size: 150%;
+}
+
+@font-face {
+    font-family: 'Pristina';
+}
+
+header {
+    background: no-repeat left/cover url(blog-header-background.jpg);
+    display: flex;
+    height: 220px;
+    min-width: 220px;
+    align-items: center;
+    color: #fff;
+    text-shadow: #000 0 0 .2em;
+	font-family: "/"
+	}
+	
+p{	font-size: 35px;
+text-align: center;
+}
+
+.footer{text-align: center;}
+
+.Liens{text-align: center;
+}
+
+.image{margin-left: 230px;
+}
